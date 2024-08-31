@@ -1,7 +1,7 @@
-import React from "react";
-import Image from "next/image";
-import Link from "next/link";
-import AboutImg from "public/assets/about.png";
+import React from "react"
+import Image from "next/image"
+import Link from "next/link"
+import AboutImg from "public/assets/about.png"
 
 const About = () => {
 	return (
@@ -11,19 +11,22 @@ const About = () => {
 					<p className="uppercase text-xl tracking-widest text-primary">About</p>
 					<h2 className="py-4">Who I Am</h2>
 					<p className="py-2 text-gray-600 text-lg">
-						An Enthusiastic frontend developer with over 3 years of experience developing fast loading
-						and responsive websites that meets customer requirements and achieve business objectives
-						using Typescript, React and other modern technologies while leveraging my experience
-						contributing to a team of software engineers in a Scrum based Agile delivery working
-						environment.
+						An artistic full stack developer (frontend heavy) with over 3 years of experience in designing
+						and developing artsy, intuitive and accessible web apps that meet customer needs and achieve
+						business objectives. I do this using modern technologies including TypeScript, React/Next JS, Tailwind CSS/Chakra UI,
+						Figma and Git/GitHub among others.
 					</p>
 					<p className="py-2 text-gray-600 text-lg">
-						I specialize in building mobile responsive front-end UI applications that connect with
-						API’s and other backend technologies. I’m passionate about learning new technologies and
-						understand there is more than one way to accomplish a task. Though I am most proficient in
-						building front-end applications using HTML, CSS, Javascript, and React, I am a quick
-						learner and can pick up new tech stacks as needed. I believe that being a great developer
-						is not using one specific language, but choosing the best tool for the job.
+						I specialize in building highly performant and graphics rich User Interfaces that deliver on
+						usability and aesthetics. This comes from my vast experience in writing quality code collaboratively
+						in a Scrum based Agile team for several years. I believe that what makes me great at what I do is:
+						my work ethic, my knowledge of appropriate tools and technologies, and the ability to learn and adapt
+						to current demands.
+					</p>
+					<p className="py-2 text-gray-600 text-lg">
+						I am an avid learner of web technologies and I pride myself being an early adopter ⚡ of the Next JS framework, and Shadcn UI library .
+						Beyond web design and development, I also practice as an embedded systems engineer(ing student),
+						which is my second love 💗.
 					</p>
 					<div className="w-[50%]">
 						<Link href="/#projects">
@@ -40,7 +43,7 @@ const About = () => {
 				</div>
 			</div>
 		</div>
-	);
-};
+	)
+}
 
-export default About;
+export default About
