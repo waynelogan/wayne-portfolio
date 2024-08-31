@@ -11,15 +11,14 @@ const Main = () => {
 				<div>
 					<div data-aos="fade-left" data-aos-duration="1000">
 						<h1 className="py-4 text-gray-700">
-							Hi, I&#39;m <span className="text-primary"> Nosarumen</span>
+							Hi, I&#39;m <span className="text-primary"> Wayne Logan</span>
 						</h1>
-						<h1 className="py-2 text-gray-700">A Front-End Developer</h1>
+						<h1 className="py-2 text-gray-700">A Full-Stack Developer</h1>
 						<p className="py-4 text-gray-600 sm:max-w-[70%] m-auto text-lg">
-							I&#39;m focused on building stunning responsive front-end web applications
-							integrating back-end technologies.
+							I&#39;m focused on designing and building visually rich, intuitive and accessible UIs.
 						</p>
 						<p className="py-4 text-gray-600 sm:max-w-[70%] m-auto text-lg">
-							I also write backend code using node.js
+							I also write robust backends using node.js
 						</p>
 					</div>
 

@@ -10,10 +10,10 @@ export default function Home() {
 	return (
 		<div>
 			<Head>
-				<title>Nosarumen | Front-End Developer</title>
+				<title>WayneLogan | Full-Stack Engineer</title>
 				<meta
 					name="description"
-					content="I’m a front-end web developer specialized in usinf react, nextjs and typescript to build exceptional user interface."
+					content="I'm a full-stack web developer specialized in using React, Typescript and Figma to create visually rich user interfaces."
 				/>
 				<link rel="icon" href="/fav.ico" />
 			</Head>
