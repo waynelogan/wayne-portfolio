@@ -26,7 +26,7 @@ const Main = () => {
 					<div data-aos="fade-right" data-aos-duration="1000">
 						<div className="flex items-center justify-between max-w-[330px] m-auto py-4">
 							<a
-								href="https://www.linkedin.com/in/nosarumen-imuentinyan/"
+								href="https://www.linkedin.com/in/wayne-logan/"
 								target="_blank"
 								rel="noreferrer"
 							>
@@ -34,7 +34,7 @@ const Main = () => {
 									<FaLinkedinIn title="Linkedin" />
 								</div>
 							</a>
-							<a href="https://github.com/Sir-Rumeh/" target="_blank" rel="noreferrer">
+							<a href="https://github.com/waynelogan/" target="_blank" rel="noreferrer">
 								<div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in hover:bg-secondary duration-300">
 									<FaGithub title="GitHub" />
 								</div>
