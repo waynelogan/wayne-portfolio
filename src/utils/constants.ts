@@ -1,5 +1,6 @@
 import ReactImg from "public/assets/skills/react.png";
 import NextJS from "public/assets/skills/nextjs.png";
+import NestJS from "public/assets/skills/nest.png";
 import Javascript from "public/assets/skills/javascript.png";
 import Typescript from "public/assets/skills/typescript.png";
 import Node from "public/assets/skills/node.png";
@@ -21,8 +22,8 @@ export const skills = [
 		image: ReactImg,
 	},
 	{
-		name: "Next JS",
-		image: NextJS,
+		name: "Nest JS",
+		image: NestJS,
 	},
 	{
 		name: "Tailwind CSS",
