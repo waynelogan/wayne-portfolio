@@ -7,9 +7,10 @@ import Node from "public/assets/skills/node.png";
 import Git from "public/assets/skills/git.png";
 import Docker from "public/assets/skills/docker.png";
 import Tailwind from "public/assets/skills/tailwind.png";
-import Figma from "public/assets/skills/figma.png"
 import Chakra from "public/assets/skills/chakra.png"
 import Shadcn from "public/assets/skills/shadcn.png"
+import Figma from "public/assets/skills/figma.png"
+import Spline from "public/assets/skills/spline.png"
 //
 import WhatsappClone from "public/assets/projects/whatsapp-web-clone/whatsapp.png";
 import Easymunch from "public/assets/projects/easy-munch/munch.png";
@@ -18,8 +19,16 @@ import MovieApp from "public/assets/projects/react-movie-app/movie.png";
 
 export const skills = [
 	{
+		name: "Node JS",
+		image: Node,
+	},
+	{
 		name: "React JS",
 		image: ReactImg,
+	},
+	{
+		name: "Next JS",
+		image: NextJS,
 	},
 	{
 		name: "Nest JS",
@@ -46,16 +55,16 @@ export const skills = [
 		image: Javascript,
 	},
 	{
-		name: "Node JS",
-		image: Node,
-	},
-	{
 		name: "Git",
 		image: Git,
 	},
 	{
 		name: "Figma",
 		image: Figma,
+	},
+	{
+		name: "Spline",
+		image: Spline,
 	},
 	{
 		name: "Docker",
