@@ -21,7 +21,7 @@ const Experience = () => {
 	const GowiExperience = {
 		companyName: "Gowi Odera",
 		role: "Full Stack Developer (Contract)",
-		duration: "March 2024 - June 2024",
+		duration: "June 2024",
 		link: "https://oderagowi.com",
 		activities: [
 			'Creating a design system using Tailwind CSS and Figma.',
@@ -34,7 +34,7 @@ const Experience = () => {
 	const BadilicoExperience = {
 		companyName: "Badilico",
 		role: "Full Stack Developer (Contract)",
-		duration: "January 2023 - March 2024",
+		duration: "November 2023",
 		link: "https://badilico.com",
 		activities: [
 			'Creating a design system using Tailwind CSS and Figma.',
@@ -46,7 +46,7 @@ const Experience = () => {
 	const ExecutiveCarHubExperience = {
 		companyName: "Executive Car Hub",
 		role: "UI/UX Designer and Developer",
-		duration: "2022",
+		duration: "2023",
 		link: "https://executive-car-hub.vercel.app",
 		activities: [
 			'Designing and prototyping of an online car rental website using Figma.',

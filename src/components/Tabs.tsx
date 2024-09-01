@@ -84,7 +84,7 @@ export default function BasicTabs({ tabList, tabPanel, initialIndex }: BasicTabs
 									{...a11yProps(index)}
 									key={item}
 									sx={{
-										color: "#44A8B3",
+										color: "white",
 										marginTop: `${index == 0 ? "" : "1rem"}`,
 										marginBottom: `${index == tabList.length - 1 ? "0.1rem" : ""}`,
 										fontSize: "16px",
