@@ -131,8 +131,8 @@ const Contact = () => {
 									<Link href="/resume">
 										<a>
 											<div className="flex gap-2 items-center rounded-lg shadow-sm shadow-gray-400 py-2 px-4 cursor-pointer hover:text-white hover:scale-110 ease-in hover:bg-secondary duration-300">
-												<p>Read Resume</p>
 												<BsFillPersonLinesFill title="Resume" />
+												<p>Read Resume</p>
 											</div>
 										</a>
 									</Link>
