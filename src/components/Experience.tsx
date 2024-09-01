@@ -56,7 +56,7 @@ const Experience = () => {
 	}
 
 	return (
-		<div id="experience" className="w-full lg:h-screen p-2 pt-16">
+		<div id="experience" className="w-full lg:h-screen p-2 pt-36 mt-24">
 			<div
 				className="max-w-[1240px] mx-auto flex flex-col justify-center h-full"
 				data-aos="fade-right"

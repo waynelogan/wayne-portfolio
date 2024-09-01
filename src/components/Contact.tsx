@@ -85,7 +85,7 @@ const Contact = () => {
 
 	return (
 		<>
-			<div id="contact" className="w-full lg:h-screen mt-14 pt-10">
+			<div id="contact" className="w-full lg:h-screen mt-10">
 				<div
 					className="max-w-[1240px] m-auto px-2 py-16 w-full"
 					data-aos="fade-left"
@@ -95,18 +95,18 @@ const Contact = () => {
 					<h2 className="py-4">Get In Touch</h2>
 					<div className="grid lg:grid-cols-2 gap-8 shadow-xl shadow-gray-400 rounded-xl p-4">
 						<div
-							className="w-full h-full"
+							className="md:w-full h-full"
 							data-aos="flip-left"
 							data-aos-duration="1000"
 						>
 							<Image
-								className="rounded-xl hover:scale-105 ease-in duration-300"
+								className="rounded-xl hover:scale-105 ease-in duration-300 w-fit"
 								src={ContactImg}
 								alt="/"
 								loading="lazy"
 							/>
 						</div>
-						<div>
+						<div className="text-center md:text-left">
 							<div>
 								<h2 className="py-2">Wayne Logan</h2>
 								<p className="text-xl mt-2">Full-Stack Developer</p>
@@ -116,8 +116,8 @@ const Contact = () => {
 								let&apos;s talk.
 							</p>
 							<p className="uppercase text-lg">Connect With Me:</p>
-							<div className="flex gap-8 w-fit py-4">
-								<div className="flex gap-6">
+							<div className="flex flex-col md:flex-row gap-8 w-fit py-4 mx-auto md:mx-0">
+								<div className="flex gap-6 flex-col md:flex-row">
 									<a
 										href="mailto:loganamollo@gmail.com"
 										target="_blank"
@@ -137,7 +137,7 @@ const Contact = () => {
 										</a>
 									</Link>
 								</div>
-								<div className="flex gap-4">
+								<div className="flex gap-4 justify-center md:justify-start">
 									<a
 										href="https://www.linkedin.com/in/wayne-logan/"
 										target="_blank"

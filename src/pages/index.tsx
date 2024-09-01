@@ -17,12 +17,12 @@ export default function Home() {
 				/>
 				<link rel="icon" href="/fav.ico" />
 			</Head>
-			<div className="overflow-x-clip">
+			<div className="overflow-x-clip px-10 lg:px-20">
 				<Main />
 				<About />
 				<Skills />
 				<Experience />
-				<Projects />
+				{/* <Projects /> */}
 				<Contact />
 			</div>
 		</div>
