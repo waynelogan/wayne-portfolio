@@ -6,6 +6,9 @@ import Node from "public/assets/skills/node.png";
 import Git from "public/assets/skills/git.png";
 import Docker from "public/assets/skills/docker.png";
 import Tailwind from "public/assets/skills/tailwind.png";
+import Figma from "public/assets/skills/figma.png"
+import Chakra from "public/assets/skills/chakra.png"
+import Shadcn from "public/assets/skills/shadcn.png"
 //
 import WhatsappClone from "public/assets/projects/whatsapp-web-clone/whatsapp.png";
 import Easymunch from "public/assets/projects/easy-munch/munch.png";
@@ -26,6 +29,14 @@ export const skills = [
 		image: Tailwind,
 	},
 	{
+		name: "Shadcn/ui",
+		image: Shadcn,
+	},
+	{
+		name: "Chakra UI",
+		image: Chakra,
+	},
+	{
 		name: "Typescript",
 		image: Typescript,
 	},
@@ -40,6 +51,10 @@ export const skills = [
 	{
 		name: "Git",
 		image: Git,
+	},
+	{
+		name: "Figma",
+		image: Figma,
 	},
 	{
 		name: "Docker",

@@ -12,22 +12,19 @@ const About = () => {
 					<h2 className="py-4">Who I Am</h2>
 					<p className="py-2 text-gray-600 text-lg">
 						An artistic full stack developer (frontend heavy) with over 3 years of experience in designing
-						and developing artsy, intuitive and accessible web apps that meet customer needs and achieve
-						business objectives. I do this using modern technologies including TypeScript, React/Next JS, Tailwind CSS/Chakra UI,
-						Figma and Git/GitHub among others.
+						and developing visually engaging, intuitive, and accessible web apps that meet customer needs and achieve
+						business objectives. I achieve this using modern technologies including TypeScript, React/Next.js, Tailwind CSS/Chakra UI,
+						Figma, Git/GitHub, among others.
 					</p>
 					<p className="py-2 text-gray-600 text-lg">
-						I specialize in building highly performant and graphics rich User Interfaces that deliver on
-						usability and aesthetics. This comes from my vast experience in writing quality code collaboratively
-						in a Scrum based Agile team for several years. I believe that what makes me great at what I do is:
-						my work ethic, my knowledge of appropriate tools and technologies, and the ability to learn and adapt
-						to current demands.
+						I specialize in building highly performant, graphics-rich user interfaces that deliver on
+						usability and aesthetics. My expertise is grounded in several years of experience writing quality code collaboratively
+						within Scrum-based Agile teams. What sets me apart is my strong work ethic, deep knowledge of the right tools and technologies, and my ability to learn and adapt to evolving demands.
 					</p>
 					<p className="py-2 text-gray-600 text-lg">
-						I am an avid learner of web technologies and I pride myself being an early adopter ⚡ of the Next JS framework, and Shadcn UI library .
-						Beyond web design and development, I also practice as an embedded systems engineer(ing student),
-						which is my second love 💗.
+						I am an avid learner of web technologies and take pride in being an early adopter ⚡ of the Next.js framework and Shadcn UI library. Beyond web design and development, I am also passionate about embedded systems engineering, which is my second love 💗.
 					</p>
+
 					<div className="w-[50%]">
 						<Link href="/#projects">
 							<p className="py-2 text-gray-600 underline cursor-pointer text-lg hover:text-primary">
